@@ -66,5 +66,5 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "Equipo_Espermatozoides-main.sln"
+    "dotnet.defaultSolution": "Equipo_Espermatozoides_2_vida.sln"
 }
