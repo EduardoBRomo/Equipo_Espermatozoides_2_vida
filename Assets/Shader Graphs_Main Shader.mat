@@ -25,7 +25,23 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Base_Color:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: ef9492356ce52ce49b8f0b34be0836ad, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Emissive:
+        m_Texture: {fileID: 2800000, guid: dad2fe429ad871d4f94b7d478b01c7e2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Metallic:
+        m_Texture: {fileID: 2800000, guid: 69c0908c69ba35e449721623cddc229f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: d6ec7a778941bcf429d935cc47e74a5a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Roughness:
+        m_Texture: {fileID: 2800000, guid: c5d53f959ca208540a3cf5ca37f7e1a9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_30763e4fa2e14e4cb1831bd5e59b9066_Texture_1_Texture2D:
@@ -69,7 +85,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Base_Color_multiplyer: {r: 1, g: 1, b: 1, a: 0}
+    - _Base_Color_multiplyer: {r: 0.9490196, g: 0.5803922, b: 0.13333334, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &433669719491614660
