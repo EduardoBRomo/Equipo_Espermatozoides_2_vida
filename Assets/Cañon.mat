@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shader Graphs_Main Shader 2
+  m_Name: "Ca\xF1on"
   m_Shader: {fileID: -6465566751694194690, guid: 8a840dc3bbb4fc341ab830bc67b828df, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -25,23 +25,23 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Base_Color:
-        m_Texture: {fileID: 2800000, guid: d9e12b78f66c1f8468c3a394e2e79cce, type: 3}
+        m_Texture: {fileID: 2800000, guid: d9c9769f718dc524bb2951514ee046a3, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Emissive:
-        m_Texture: {fileID: 2800000, guid: b8b9b3eba4bd658419a0e8b3c9adeb34, type: 3}
+        m_Texture: {fileID: 2800000, guid: 806a73b1c2b3a444e913efcebc92ca06, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Metallic:
-        m_Texture: {fileID: 2800000, guid: 1e31a4b1159b46743935e5665bed1c29, type: 3}
+        m_Texture: {fileID: 2800000, guid: 1111a17946190014aa97971d0324d9d3, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Normal:
-        m_Texture: {fileID: 2800000, guid: 213e6de5e11b3484a8389999f997658d, type: 3}
+        m_Texture: {fileID: 2800000, guid: 2c2e757d82e2d2a4eae012e99f7323bb, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Roughness:
-        m_Texture: {fileID: 2800000, guid: b3bb57b88f413a54999e84241e07b3c0, type: 3}
+        m_Texture: {fileID: 2800000, guid: 49b19d149e5e2c849bae5d3524533198, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -64,7 +64,7 @@ Material:
     - _Base_Color_multiplyer: {r: 1, g: 0.6, b: 0.26666668, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &8676305731872323802
+--- !u!114 &6974898850345004449
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
